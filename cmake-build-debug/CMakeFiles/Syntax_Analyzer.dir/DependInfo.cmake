@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Programs_C++/Syntax_Analyzer_Backup/Syntax_Analyzer/main.cpp" "CMakeFiles/Syntax_Analyzer.dir/main.cpp.obj" "gcc" "CMakeFiles/Syntax_Analyzer.dir/main.cpp.obj.d"
+  "D:/Programs_C++/Syntax_Analyzer/Syntax_Analyzer/main.cpp" "CMakeFiles/Syntax_Analyzer.dir/main.cpp.obj" "gcc" "CMakeFiles/Syntax_Analyzer.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

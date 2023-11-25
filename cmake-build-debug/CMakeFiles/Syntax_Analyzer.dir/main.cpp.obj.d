@@ -1,5 +1,5 @@
 CMakeFiles/Syntax_Analyzer.dir/main.cpp.obj: \
- D:\Programs_C++\Syntax_Analyzer_Backup\Syntax_Analyzer\main.cpp \
+ D:\Programs_C++\Syntax_Analyzer\Syntax_Analyzer\main.cpp \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/stdc++.h \
  C:/msys64/ucrt64/include/c++/13.2.0/cassert \
  C:/msys64/ucrt64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
@@ -299,9 +299,9 @@ CMakeFiles/Syntax_Analyzer.dir/main.cpp.obj: \
  C:/msys64/ucrt64/include/c++/13.2.0/unordered_set \
  C:/msys64/ucrt64/include/c++/13.2.0/bits/unordered_set.h \
  C:/msys64/ucrt64/include/c++/13.2.0/shared_mutex \
- D:\Programs_C++\Syntax_Analyzer_Backup\Syntax_Analyzer\libs/json-develop/single_include/nlohmann/json.hpp \
+ D:\Programs_C++\Syntax_Analyzer\Syntax_Analyzer\libs/json-develop/single_include/nlohmann/json.hpp \
  C:/msys64/ucrt64/include/c++/13.2.0/version \
- D:\Programs_C++\Syntax_Analyzer_Backup\Syntax_Analyzer\libs/cpp-httplib/httplib.h \
+ D:\Programs_C++\Syntax_Analyzer\Syntax_Analyzer\libs/cpp-httplib/httplib.h \
  C:/msys64/ucrt64/include/io.h C:/msys64/ucrt64/include/winsock2.h \
  C:/msys64/ucrt64/include/_mingw_unicode.h \
  C:/msys64/ucrt64/include/windows.h C:/msys64/ucrt64/include/sdkddkver.h \

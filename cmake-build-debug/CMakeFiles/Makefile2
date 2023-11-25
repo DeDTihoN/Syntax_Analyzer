@@ -53,10 +53,10 @@ RM = "D:\Program files\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Programs_C++\Syntax_Analyzer_Backup\Syntax_Analyzer
+CMAKE_SOURCE_DIR = D:\Programs_C++\Syntax_Analyzer\Syntax_Analyzer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Programs_C++\Syntax_Analyzer_Backup\Syntax_Analyzer\cmake-build-debug
+CMAKE_BINARY_DIR = D:\Programs_C++\Syntax_Analyzer\Syntax_Analyzer\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/Syntax_Analyzer.dir/clean
 CMakeFiles/Syntax_Analyzer.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Syntax_Analyzer.dir\build.make CMakeFiles/Syntax_Analyzer.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Syntax_Analyzer.dir\build.make CMakeFiles/Syntax_Analyzer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Programs_C++\Syntax_Analyzer_Backup\Syntax_Analyzer\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Syntax_Analyzer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Programs_C++\Syntax_Analyzer\Syntax_Analyzer\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Syntax_Analyzer"
 .PHONY : CMakeFiles/Syntax_Analyzer.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Syntax_Analyzer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Programs_C++\Syntax_Analyzer_Backup\Syntax_Analyzer\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Programs_C++\Syntax_Analyzer\Syntax_Analyzer\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Syntax_Analyzer.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Programs_C++\Syntax_Analyzer_Backup\Syntax_Analyzer\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Programs_C++\Syntax_Analyzer\Syntax_Analyzer\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Syntax_Analyzer.dir/rule
 
 # Convenience name for target.

@@ -109,7 +109,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "D:/Program files/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake"
   "D:/Program files/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake"
   "D:/Program files/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/ProcessorCount.cmake"
-  "D:/Programs_C++/Syntax_Analyzer_Backup/Syntax_Analyzer/CMakeLists.txt"
+  "D:/Programs_C++/Syntax_Analyzer/Syntax_Analyzer/CMakeLists.txt"
   "CMakeFiles/3.26.4/CMakeCCompiler.cmake"
   "CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.26.4/CMakeRCCompiler.cmake"

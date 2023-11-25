@@ -1,4 +1,4 @@
-# Install script for directory: D:/Programs_C++/Syntax_Analyzer_Backup/Syntax_Analyzer
+# Install script for directory: D:/Programs_C++/Syntax_Analyzer/Syntax_Analyzer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Programs_C++/Syntax_Analyzer_Backup/Syntax_Analyzer/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Programs_C++/Syntax_Analyzer/Syntax_Analyzer/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

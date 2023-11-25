@@ -311,6 +311,8 @@ bool CheckLL1Grammar()
 
 map<char,int>ControlTable[26];
 
+
+/// Make LL Table
 void MakeLLTable()
 {
     for (int i = 0; i < 26; i++)
@@ -447,12 +449,11 @@ int main(){
     CalcFirstK();
     CalcFollowK();
     MakeLLTable();
-//    string word;
-//    word="(a+a)*a";
+//    string word="abb";
 //    pair<string,ASTNode*> RES = GetAst(word);
-//    string json = ConvertAstToJson(RES.second);
-//    cout<<json<<endl;
-//    return 0;
+//    cout<<RES.first<<endl;
+//    cout<<ConvertAstToJson(RES.second)<<endl;
+//    exit(0);
     httplib::Server svr;
     // Add this code to handle word submission
     svr.Post("/check_word", [&](const httplib::Request& req, httplib::Response& res) {

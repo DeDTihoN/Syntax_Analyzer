@@ -1,4 +1,4 @@
 3 S
-S->aA|B
-A->aA|b
-B->bB|c
+S->iCtSE|a
+E->eS|^
+C->b

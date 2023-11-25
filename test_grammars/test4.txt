@@ -1,0 +1,4 @@
+3 S
+S->iCtSE|a
+E->eS|^
+C->b

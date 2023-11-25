@@ -36,6 +36,10 @@ var margin = {
     width = 960 ;
     height = 1500 ;
 var root = {
+    "name": "Eve",
+    "value": 15,
+    "type": "black",
+    "level": "yellow",
     "children": [
         {
             "name": "Cain",
@@ -43,11 +47,7 @@ var root = {
             "type": "grey",
             "level": "red"
         }
-        ],
-    "name": "Eve",
-    "value": 15,
-    "type": "black",
-    "level": "yellow"
+    ],
 };
 var i = 0,
     duration = 700,
@@ -79,7 +79,9 @@ function drawTree(data) {
 
     root.x0 = 0;
     root.y0 = height / 2;
-    root.children.forEach(collapse);
+    if (root.children) {
+        root.children.forEach(collapse);
+    }
     update(root);
 
     d3.select("#treeContainer").style("height", "1500px");
