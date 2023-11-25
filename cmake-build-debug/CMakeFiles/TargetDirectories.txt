@@ -1,0 +1,3 @@
+D:/Programs_C++/Syntax_Analyzer_Backup/Syntax_Analyzer/cmake-build-debug/CMakeFiles/Syntax_Analyzer.dir
+D:/Programs_C++/Syntax_Analyzer_Backup/Syntax_Analyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programs_C++/Syntax_Analyzer_Backup/Syntax_Analyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

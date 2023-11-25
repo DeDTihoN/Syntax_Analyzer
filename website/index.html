@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>AST Viewer</title>
+</head>
+<body>
+<div class="container">
+    <h1>AST Viewer</h1>
+    <form id="wordForm">
+        <label for="word">Enter Word:</label>
+        <input type="text" id="word" name="word" required>
+        <button type="button" onclick="submitWord()">Submit</button>
+    </form>
+    <div id="messageContainer">
+        <!-- Этот элемент будет содержать сообщение -->
+    </div>
+    <div id="treeContainer"></div>
+</div>
+<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="script.js"></script>
+</body>
+</html>

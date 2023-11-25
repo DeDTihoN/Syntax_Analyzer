@@ -1,0 +1,3 @@
+"D:\Program files\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Syntax_Analyzer.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\Syntax_Analyzer.dir/objects.a @CMakeFiles\Syntax_Analyzer.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\Syntax_Analyzer.dir/objects.a -Wl,--no-whole-archive -o Syntax_Analyzer.exe -Wl,--out-implib,libSyntax_Analyzer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Syntax_Analyzer.dir\linkLibs.rsp
